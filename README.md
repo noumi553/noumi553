@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo](https://github.com/noumi553/noumi553/blob/main/Futuristic%20student%20profile%20with%20tech%20aura.png)
 <h1 align="center">Hi 👋, I'm Nouman aziz</h1>
 <h3 align="center">A passionate Full stack developer and learning Data science from pakistan</h3>
 
